@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hi! My name is Phukhao, I'm learning to be a Front-end Developer!
 <!--
 **Napatji/Napatji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/Napatji?theme=unicorn&font=Vollkorn%20SC)
