@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi! My name is Phukhao, I'm learning to be a Front-end Developer!
+My name is Phukhao, I'm learning to be a Front-end Developer!
 <!--
 **Napatji/Napatji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
