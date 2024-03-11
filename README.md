@@ -46,4 +46,4 @@ src="https://img.shields.io/github/followers/Napatji?logo=github&style=for-the-b
 
 <b>My leetcode Stats</b>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Napat Jirarattanakunchai?theme=dark&font=Red%20Hat%20Mono)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Napatji?theme=dark&font=Red%20Hat%20Mono)
