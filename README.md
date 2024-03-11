@@ -9,7 +9,8 @@ Computer Engineering at KMITL
 * 🧠  I'm trying to be better.
 
 <a href="https://www.github.com/Napatji" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Napatji?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Napatji?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 
 ### Skills
 
@@ -43,4 +44,4 @@ src="https://img.shields.io/github/followers/Napatji?logo=github&style=for-the-b
 
 <b>My leetcode Stats</b>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Napatji?theme=dark&font=baloo&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&font=Red%20Hat%20Mono)
